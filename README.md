@@ -3,8 +3,7 @@ Python package that consumes a NZBN and returns either True or False depending o
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and 
-running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 If you would like to create your own package follow the guide below:
 * [Packaging project](https://packaging.python.org/tutorials/packaging-projects/)
@@ -46,10 +45,14 @@ The following steps are performed:
 
 ## [Changelog](https://github.com/danielcerezodev/NZ_Business_Number_Validator/blob/master/CHANGELOG.md)
 
+## Contributing
+
+Pull requests are welcome.
+
 ## Authors
 
 * [**Daniel Cerezo**](https://github.com/danielcerezodev)
 
 ## License
 
-This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/danielcerezodev/NZ_Business_Number_Validator/blob/master/LICENSE.md) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](https://github.com/danielcerezodev/NZ_Business_Number_Validator/blob/master/LICENSE.md) file for details.
